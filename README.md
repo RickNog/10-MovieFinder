@@ -2,7 +2,7 @@
 
 In this project, I created an app that allows movie nerds to search for their favorite movies/tv shows.
 
-Contains Angular JS, Bootstrap and the OMDB API (http://omdbapi.com.
+Contains Angular JS, Bootstrap and the OMDB API (http://omdbapi.com).
 
 ##Mockup:
 <img src="http://i.imgur.com/ebody6P.png" /> 
